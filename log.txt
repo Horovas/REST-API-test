@@ -1,0 +1,1 @@
+200 http://best-delivery-processor.lostfound.ru {"status": "DELIVERED"}
